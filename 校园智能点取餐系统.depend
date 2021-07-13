@@ -1,31 +1,29 @@
 # depslib dependency file v1.0
-1626075146 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\main.c
-	<stdio.h>
-	<stdlib.h>
+1626146124 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\main.c
 	<Windows.h>
-	"datadefine.h"
 
 1625830724 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\system_admin.c
 
 1625839835 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\system_user.c
 
-1626062683 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\system.c
+1626146116 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\system.c
 	<stdio.h>
 	<stdlib.h>
 	"datadefine.h"
 
-1626078204 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\order.c
+1626144988 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\order.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 	<time.h>
 	"datadefine.h"
 
-1626077482 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\dataload.c
+1626140397 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\dataload.c
 	"datadefine.h"
 	<stdio.h>
 	<stdlib.h>
 
-1626069654 d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\datadefine.h
+1626144656 d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\datadefine.h
 
 1625902707 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\printmenu.c
 	"datadefine.h"
@@ -37,15 +35,16 @@
 	<stdio.h>
 	<stdlib.h>
 
-1626076551 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\operate.c
+1626146704 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\operate.c
 	"datadefine.h"
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 
-1626075141 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\take.c
+1626144928 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\take.c
+
+1626140397 source:d:\project\cpp\校园智能点取餐系统\校园智能点取餐系统\data.c
+	"datadefine.h"
 	<stdio.h>
 	<stdlib.h>
-	<time.h>
-	"datadefine.h"
 

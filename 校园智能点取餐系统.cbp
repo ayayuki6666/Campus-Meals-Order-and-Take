@@ -31,23 +31,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="datadefine.h" />
-		<Unit filename="dataload.c">
+		<Unit filename="data.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="datadefine.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="operate.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="order.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="system.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="take.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

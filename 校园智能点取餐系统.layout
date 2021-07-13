@@ -2,52 +2,26 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="order.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+	<File name="data.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="213" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="datadefine.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1042" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="303" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="system.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2539" topLine="0" />
+			<Cursor1 position="2917" topLine="0" />
 		</Cursor>
 		<Folding>
 			<Collapse line="4" />
-			<Collapse line="36" />
-			<Collapse line="43" />
-			<Collapse line="69" />
-			<Collapse line="76" />
-			<Collapse line="107" />
-			<Collapse line="111" />
-			<Collapse line="145" />
-			<Collapse line="187" />
-		</Folding>
-	</File>
-	<File name="take.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2177" topLine="0" />
-		</Cursor>
-		<Folding>
-			<Collapse line="6" />
-			<Collapse line="27" />
-			<Collapse line="29" />
-			<Collapse line="36" />
-			<Collapse line="39" />
+			<Collapse line="26" />
+			<Collapse line="48" />
+			<Collapse line="70" />
+			<Collapse line="80" />
+			<Collapse line="94" />
+			<Collapse line="108" />
+			<Collapse line="122" />
+			<Collapse line="129" />
+			<Collapse line="137" />
 		</Folding>
 	</File>
 	<File name="operate.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="4350" topLine="10" />
+			<Cursor1 position="11225" topLine="22" />
 		</Cursor>
 		<Folding>
 			<Collapse line="5" />
@@ -59,24 +33,38 @@
 			<Collapse line="130" />
 			<Collapse line="150" />
 			<Collapse line="174" />
-			<Collapse line="222" />
-			<Collapse line="230" />
-			<Collapse line="238" />
+			<Collapse line="235" />
+			<Collapse line="243" />
+			<Collapse line="251" />
+			<Collapse line="284" />
+			<Collapse line="351" />
+			<Collapse line="378" />
+			<Collapse line="452" />
+			<Collapse line="466" />
 		</Folding>
 	</File>
-	<File name="dataload.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2436" topLine="4" />
+			<Cursor1 position="405" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="datadefine.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1406" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="system.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1576" topLine="0" />
 		</Cursor>
 		<Folding>
 			<Collapse line="4" />
-			<Collapse line="26" />
-			<Collapse line="48" />
-			<Collapse line="70" />
-			<Collapse line="80" />
-			<Collapse line="86" />
-			<Collapse line="94" />
-			<Collapse line="122" />
+			<Collapse line="36" />
+			<Collapse line="69" />
+			<Collapse line="76" />
+			<Collapse line="107" />
+			<Collapse line="145" />
+			<Collapse line="184" />
 		</Folding>
 	</File>
 </CodeBlocks_layout_file>
